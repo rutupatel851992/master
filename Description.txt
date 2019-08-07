@@ -1,0 +1,3 @@
+Neutral Networks
+
+Backpropagation. Supervised learning technique used for training artificial neural networks.
